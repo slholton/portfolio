@@ -11,14 +11,15 @@ nav {
 }
 
 .masthead-title {
-    color: white;
+    color: black;
     text-align: center;
     padding-top: 325px;
+    font-weight: bolder;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .masthead-description {
-    color: white;
+    color: #ecb124;
     text-align: center;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
