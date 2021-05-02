@@ -1,3 +1,21 @@
 nav {
     justify-content: center;
 }
+
+.masthead {
+    background-image: url(./Assets/shavonneHero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.masthead-title {
+    color: white;
+    text-align: center;
+}
+
+.masthead-description {
+    color: white;
+    text-align: center;
+}
