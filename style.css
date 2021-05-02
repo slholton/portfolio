@@ -8,18 +8,22 @@ nav {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    opacity: .5;
 }
 
 .masthead-title {
-    color: black;
+    color: #8e1e1d;
     text-align: center;
     padding-top: 325px;
-    font-weight: bolder;
+    font-weight: bold;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 64px;
 }
 
 .masthead-description {
-    color: #ecb124;
+    color: #8e1e1d;
     text-align: center;
+    font-weight: bold;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 32px;
 }
