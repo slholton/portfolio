@@ -4,18 +4,21 @@ nav {
 
 .masthead {
     background-image: url(./Assets/shavonneHero.jpg);
+    height: 650px;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    
 }
 
 .masthead-title {
     color: white;
     text-align: center;
+    padding-top: 325px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .masthead-description {
     color: white;
     text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
