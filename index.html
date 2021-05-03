@@ -14,19 +14,26 @@
 
 <body>
     <nav class="nav">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="#about">About</a>
         <a class="nav-link" href="#projects">Design</a>
         <a class="nav-link" href="https://www.vkpresses.com/gallery">Visuals</a>
         <a class="nav-link" href="#contact" tabindex="-1" aria-disabled="true">Contact</a>
     </nav>
 
     <div class="container">
-        <img src="Assets/shavonneHero.jpg" alt="shavonneHero" class="image">
+        <img src="Assets/shavonneHero.jpg" alt="shavonneHero" class="image" style="width: 100%;">
             <div class="name">
                 <h1 class="masthead-title">Shavonne Holton</h1>
                 <p class="masthead-description">Future Developer & Creative Director</p>
             </div>
-    </div>
+
+    <div class="row align-items-md-stretch" id="about">
+        <div class="h-100 p-5 text-white bg-dark rounded-3">
+            <h2>About Shavonne</h2>
+            <p>Swap the background-color utility and add a `.text-*` color utility to mix up the jumbotron look. Then,
+                    mix and match with additional component themes and more.</p>
+            <button class="btn btn-outline-light" type="button">Example button</button>
+        </div>
     
     <section class="container" id="projects">
         <figure class="text-center">
@@ -78,6 +85,7 @@
                 </div>
             </div>
     </section>
+
     <section id="contact" class="container">
         <figure class="text-center">
             <h1>Contact</h1>
@@ -103,14 +111,15 @@
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </section>
+   
     <footer class="footer mt-auto py-3 bg-light">
         <div class="social">
             <a href="https://www.linkedin.com/in/shavonne-holton">
-                <i class="fa fa-linkedin-square" style="font-size:24px"></i>
+                <i class="fa fa-linkedin-square" style="font-size:24px;color:#8e1e1d"></i>
             </a>
           <span class="text-muted"> Shavonne Holton </span>
             <a href="https://github.com/slholton">
-                <i style="font-size:24px" class="fa">&#xf09b;</i>
+                <i style="font-size:24px;color:#8e1e1d" class="fa">&#xf09b;</i>
             </a>
         </div>
     </footer>
