@@ -43,6 +43,27 @@ nav {
     font-size: 24px;
 }
 
+.view-sites {
+  text-align: center;
+  font-style: italic;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.vkp {
+  display: block;
+  text-align: center;
+}
+
+.lnl {
+  display: block;
+  text-align: center;
+}
+
+.sio {
+  display: block;
+  text-align: center;
+}
+
 footer {
   position: center;
   text-align: center;
