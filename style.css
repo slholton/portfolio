@@ -80,7 +80,8 @@ nav {
 
 #contact {
   display:grid;
-  background-color: #DCDCDC;
+  color: white;
+  background-color: #212529;
 }
 
 #fs-frm {
