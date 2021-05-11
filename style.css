@@ -64,6 +64,15 @@ nav {
   text-align: center;
 }
 
+#badge {
+  width: 50%;
+  height: 50%;
+}
+
+.card-body {
+  text-align: center;
+}
+
 .btn btn-primary {
   display: inline-block;
   justify-content: center;
