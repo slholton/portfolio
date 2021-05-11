@@ -64,6 +64,11 @@ nav {
   text-align: center;
 }
 
+#projects {
+  display: block;
+  margin: 20%, 0, 20%, 0;
+}
+
 #badge {
   width: 50%;
   height: 50%;
