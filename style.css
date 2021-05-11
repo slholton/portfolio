@@ -73,11 +73,13 @@ nav {
   text-align: center;
 }
 
-.btn btn-primary {
-  display: inline-block;
-  justify-content: center;
-  align-items: center;
-  color: #8e1e1d;
+#contact {
+  display:grid;
+  background-color: #DCDCDC;
+}
+
+#fs-frm {
+  padding: 0 10% 5% 10%;
 }
 
 footer {
