@@ -15,6 +15,7 @@ nav {
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   text-transform: uppercase;
+  position:relative;
 }
 
 .site-branding {
@@ -24,6 +25,12 @@ nav {
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: rgba(142,30,29,.5);
   text-transform: lowercase;
+  position: absolute;
+  bottom:10px;
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto;  
 }
 
 .card-bio {
