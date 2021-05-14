@@ -3,7 +3,7 @@ nav {
 }
 
 .custom-header-image {
-  height: 100%;
+  height: 100vh;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -26,30 +26,23 @@ nav {
   text-transform: lowercase;
 }
 
-.view-sites {
-  text-align: center;
-  font-style: italic;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+.card-bio {
+  display: grid;
+  align-content: center;
+  height: 100vh;
+  margin: auto;
 }
 
-.vkp {
-  display: block;
-  text-align: center;
-}
-
-.lnl {
-  display: block;
-  text-align: center;
-}
-
-.sio {
-  display: block;
-  text-align: center;
-}
-
-#projects {
-  display: block;
-  margin: 20%, 0, 20%, 0;
+.card-bioDetails {
+  display: grid;
+  align-content:center;
+  height: 100vh;
+  width: 100vmin;
+  margin: auto;
+  padding: 10%;
+  text-align: justify;
+  color: white;
+  background-color: rgba(142,30,29,.5);
 }
 
 #badge {
