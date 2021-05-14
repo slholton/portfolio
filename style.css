@@ -3,6 +3,7 @@ nav {
 }
 
 .custom-header-image {
+  background-image: url(/Assets/shavonneHero.jpg);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
