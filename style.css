@@ -3,7 +3,7 @@ nav {
 }
 
 .custom-header-image {
-  height: 90vh;
+  height: 100vh;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -45,6 +45,14 @@ nav {
   margin-bottom: 5%;
 }
 
+#projects {
+  margin-bottom: 5%;
+}
+
+.project {
+  padding: 10px;
+}
+
 #badge {
   width: 50%;
   height: 50%;
@@ -55,9 +63,9 @@ nav {
 }
 
 #contact {
-  display:grid;
+  display: grid;
   color: white;
-  background-color: #212529;
+  background-color: #8E2A1E;
 }
 
 #fs-frm {
