@@ -7,7 +7,7 @@ nav {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 20% 0 20% 0;
+  padding: 40% 0 0 0;
   position: relative;
 }
 
@@ -29,6 +29,7 @@ nav {
 .card-bio {
   display: grid;
   align-content: center;
+  text-align: justify;
   height: 100vh;
   margin: auto;
 }
@@ -36,6 +37,7 @@ nav {
 .bioTitle {
   margin-bottom: 5%;
 }
+
 #badge {
   width: 50%;
   height: 50%;
