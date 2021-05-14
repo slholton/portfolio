@@ -14,10 +14,6 @@ nav {
 .site-title {
   color: white;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 1.875rem;
-  font-weight: 800;
-  font-style: italic;
-  letter-spacing: .1em;
   text-transform: uppercase;
 }
 
@@ -26,8 +22,6 @@ nav {
   color: whitesmoke;
   text-align: center;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  font-size: 1.25rem;
-  font-weight: 600;
   background-color: rgba(142,30,29,.5);
   text-transform: lowercase;
 }
